@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I’m Manbir Briar! 👋
+
+I’m a **4th-year Software Engineering** student at the **University of Calgary**. I’m passionate about **embedded systems, AI, and machine learning**.
+
+When I’m not coding, you’ll find me competing for the **Dinos 🦖 varsity XC & T&F teams** or **playing soccer with friends**.
+
+---
+
+## Connect with me
+
+**[LinkedIn](https://www.linkedin.com/in/manbirbriar/)**  
+**Email:** manbir.briar@ucalgary.ca
+
 
 <!--
 **manbirbriar/manbirbriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
